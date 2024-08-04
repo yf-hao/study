@@ -1,2 +1,2 @@
 
-* [docsify使用技巧](/study/front/docisfy "docsify使用技巧")
+* [docsify使用技巧](/study/front/docsify "docsify使用技巧")
