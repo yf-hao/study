@@ -1,4 +1,4 @@
 # 杂记
 
-- [docsify使用技巧](/study/front/docsify "docsify使用技巧")
+- [docsify使用技巧](/front/docsify "docsify使用技巧")
 
