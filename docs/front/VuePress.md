@@ -64,5 +64,3 @@ export default defineUserConfig({
 
 ![image-20240805213124198](/images/image-20240805213124198.png)
 
-![image-2024080521312419](https://yfhao.us.kg/study/images20240805224915.png)
-

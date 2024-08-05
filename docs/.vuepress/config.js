@@ -10,7 +10,7 @@ import {
 import {customSidebar} from './sidebar/customSiderbar.js'
 export default defineUserConfig({
 	dest: 'site',
-	base: '/study/',
+	base: '/study/site/',
 	title: "Hao's Note",
 	bundler: viteBundler(),
 	theme: defaultTheme({

@@ -43,7 +43,6 @@
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>此时 目录如下：</p>
 <p><img src="/images/image-20240805213124198.png" alt="image-20240805213124198"></p>
-<p><img src="https://yfhao.us.kg/study/images20240805224915.png" alt="image-2024080521312419"></p>
 </div></template>
 
 
