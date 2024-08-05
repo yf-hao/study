@@ -1,0 +1,3 @@
+import comp from "/Volumes/Hao 1/Users/hao/hao_data/blog/vuepress/docs/.vuepress/.temp/pages/front/VuePress.html.vue"
+const data = JSON.parse("{\"path\":\"/front/VuePress.html\",\"title\":\"## 配置侧边栏\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"front/VuePress.md\"}")
+export { comp, data }

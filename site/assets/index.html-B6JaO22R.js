@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n,a as o}from"./app-BR8SIwUy.js";const a={},c=o("p",null,"hee",-1),r=[c];function s(_,l){return n(),t("div",null,r)}const d=e(a,[["render",s],["__file","index.html.vue"]]),f=JSON.parse('{"path":"/front/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"front/README.md"}');export{d as comp,f as data};
