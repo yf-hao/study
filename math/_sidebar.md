@@ -1,4 +1,2 @@
-- [数学](/math/)
-  - [离散数学](/math/discrete/)
-  - 高等数学
-  - 线性代数
+- [离散数学](/math/discrete/)
+  - [概述](intro.md "概述")

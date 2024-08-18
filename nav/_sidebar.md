@@ -1,20 +1,23 @@
-- 编程语言
+- :books: **编程语言**
   - [Java](/program/java/)
   - Python
   - Vue3
-- 计算机科学
+- :books:  **计算机科学与技术**
   - 操作系统
   - 数据结构
-- 数学
-  - [离散数学](/math/discrete/intro.md)
+- :books:  **数学**
+  - [离散数学](/math/discrete/)
   - 高等数学
   - 线性代数
-- 操作系统使用
+- :books:  **英语**
+  - 语法
+  - 口语
+- :books:  **操作系统**
   - [Mac](../pc/mac/)
   - Windows
   - Linux
     - Ubuntu
     - CentOS
-- 软件使用
+- :books:  **软件使用**
   - Docsify
   - Hexo

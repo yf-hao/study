@@ -747,7 +747,7 @@ body {
 }
 
 .app-sub-sidebar li:before {
-    content: "-";
+    content: "";
     padding-right: 4px;
     float: left
 }
