@@ -1,3 +1,10 @@
+<!-- Logo -->
+[![](/_media/hao.svg)]()
+
+<!-- Title -->
+[Hao's Notes](/)
+
+
 * **[目录](/nav/)**
 * **入门**
   * [快速开始](zh-cn/quickstart.md) 

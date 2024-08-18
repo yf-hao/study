@@ -5,16 +5,16 @@
 - 计算机科学
   - 操作系统
   - 数据结构
-  - 
 - 数学
-  - 离散数学
+  - [离散数学](/math/discrete/intro.md)
   - 高等数学
   - 线性代数
-- 软件使用
-  - Docsify
-  - Hexo
 - 操作系统使用
   - [Mac](../pc/mac/)
   - Windows
-  - Ubuntu
-  - CentOS
+  - Linux
+    - Ubuntu
+    - CentOS
+- 软件使用
+  - Docsify
+  - Hexo
