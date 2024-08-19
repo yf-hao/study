@@ -1,9 +1,9 @@
 <!-- Logo -->
-[![](https://yfhao.us.kg/study/_media/hao.svg)]()
+<!-- [![](https://yfhao.us.kg/study/_media/hao.svg)]() -->
 
 <!-- Title -->
-[Hao's Notes](/)
-
+<!-- [Hao's Notes](/)
+ -->
 
 * **[目录](/nav/)**
 * **入门**
